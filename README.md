@@ -1,2 +1,1 @@
-Dashboard:
-![Dashboard](<Screenshot 2024-08-27 003701-1.png>)
+![Dashboard](dashboard_ss.png)
